@@ -16,7 +16,7 @@
 <img src="Sherma2.gif" height="90" alt="Sherma Right" />
 </div>
 
-<hr style="height: 1px; border: none; background-color: #30363d; margin: 20px 0;" />
+<h2></h2>
 
 <!-- About Me -->
 <h2> ABOUT ME </h2>
@@ -29,7 +29,19 @@
   <li> Powered by coffee ☕ and <code>while(true)</code> loops </li>
 </ul>
 
-<h2></h2>
+<!-- Skill Set -->
+<h2> SKILL SET </h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</div>
 
 <!-- Fun fact -->
 <h2> FUN FACT </h2>
