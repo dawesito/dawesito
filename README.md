@@ -1,11 +1,16 @@
-<h1 align="center"> Hola, soy Da Wei 🤙 </h1>
+<div align="center"> 
 
-<h3 align="center"> Student at UPM, Computer Science </h3>
+  # Hola, soy Da Wei 🤙 
+  ## Student at UPM, Computer Science 
+  
+  <div>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Escudo_UPM.svg" alt="UPM" height="100" style="margin-right: 20px;"/>
-  <img src="https://www.fi.upm.es/estilos/fi/imagenes/logoETSIINF.svg" alt="ETSIINF UPM" height="100"/>
-</p>
+<div>
+  <a href="https://www.upm.es">
+    <img src="https://www.upm.es/gsfs/SFS11831" height="100" alt="UPM"/>
+  </a>
+</div>
+
 
 <!--
 **dawesito/dawesito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
