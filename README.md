@@ -47,17 +47,21 @@
 <h2> FUN FACT </h2>
 <p> I built my first PC when I was 16 y.o </p>
 
+<!--
+
 <div>
   <img src="PC1.jpg" height="280" align="left" hspace="25" style="border-radius: 6px;" alt="My First PC Setup" />
-
+-->
   <!-- Specs -->
+  <!--
+
   <div style="overflow: hidden;">
     <h4 style="margin-top: 0; padding-top: 5px;"> First PC Specs</h4>
     <ul style="padding-left: 20px;">
       <li><b>CPU:</b> Ryzen 5 2600 </li>
       <li><b>GPU:</b> NVIDIA GeForce GTX 1660 Super </li>
       <li><b>RAM:</b> Corsair Vengeance LPX DDR4 32GB DDR4 @ 3200MHz (4x8) </li>
-      <li><b>Motherboard:</b> Gigabyte B550M Aorus Elite </li>
+      <li><b>Motherboard:</b> Gigabyte B550M Aorus Elite  </li>
       <li><b>Storage 1:</b> Samsung 970 EVO Plus SSD 250GB </li>
       <li><b>Storage 2:</b> Crucial BX500 500GB </li>
       <li><b>PSU:</b> Cougar VTE 80 Plus Bronze 600W </li>
@@ -68,6 +72,7 @@
 </div>
 
 <br clear="all" />
+-->
 
 <!-- Current PC Setup -->
 <p> Right now I'm rockin'... </p>
