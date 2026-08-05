@@ -13,7 +13,7 @@
 <h3>Computer Science Student at UPM</h3>
 <img src="Sherma.gif" height="90" alt="Sherma Left" />
 <a href="https://www.upm.es"><img src="https://www.upm.es/gsfs/SFS11831" height="90" alt="UPM"/></a>
-<img src="Sherma.gif" height="90" alt="Sherma Right" />
+<img src="Sherma2.gif" height="90" alt="Sherma Right" />
 </div>
 
 <hr style="height: 1px; border: none; background-color: #30363d; margin: 20px 0;" />
@@ -50,6 +50,7 @@
       <li><b>Storage 2:</b> Crucial BX500 500GB </li>
       <li><b>PSU:</b> Cougar VTE 80 Plus Bronze 600W </li>
       <li><b>Case:</b> Antec DP301M Gaming </li>
+      <li><b>Cooler:</b> Cooler Master Hyper 212 RGB Black Edition </li>
     </ul>
   </div>
 </div>
