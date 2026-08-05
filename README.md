@@ -1,4 +1,4 @@
-<!-- Starting point: Hola, soy Da Wei 🤙 -->
+<!-- Hola, soy Da Wei 🤙 -->
 <div align="center">
 
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 
 </div>
 
-<!-- Second part: Computer Science + UPM and ETSIINF logo -->
+<!-- Computer Science + UPM and ETSIINF logo -->
 <div align="center">
 <h3>Computer Science Student at UPM</h3>
 <img src="Sherma.gif" height="90" alt="Sherma Left" />
@@ -67,8 +67,9 @@
   </div>
 </div>
 
-<!-- Limpia el alineado flotante -->
 <br clear="all" />
+
+
 
 
 <!--
