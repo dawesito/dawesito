@@ -56,7 +56,7 @@
     <ul style="padding-left: 20px;">
       <li><b>CPU:</b> Ryzen 5 2600 </li>
       <li><b>GPU:</b> NVIDIA GeForce GTX 1660 Super </li>
-      <li><b>RAM:</b> 32GB DDR4 @ 3600MHz </li>
+      <li><b>RAM:</b> Corsair Vengeance LPX DDR4 32GB DDR4 @ 3200MHz (4x8) </li>
       <li><b>Motherboard:</b> Gigabyte B550M Aorus Elite </li>
       <li><b>Storage 1:</b> Samsung 970 EVO Plus SSD 250GB </li>
       <li><b>Storage 2:</b> Crucial BX500 500GB </li>
@@ -69,7 +69,31 @@
 
 <br clear="all" />
 
+<!-- Current PC Setup -->
+<p> Right now I'm rockin'... </p>
 
+<div>
+  <img src="CurrentPC.jpg" height="300" align="left" hspace="25" style="border-radius: 6px;" alt="My Current PC Setup" />
+
+  <!-- Specs -->
+  <div style="overflow: hidden;">
+    <h4 style="margin-top: 0; padding-top: 5px;"> Current PC Specs</h4>
+    <ul style="padding-left: 20px;">
+      <li><b>CPU:</b> Ryzen 7 5700X3D </li>
+      <li><b>GPU:</b> NVIDIA GeForce RTX 5060 TI 16GB </li>
+      <li><b>RAM:</b> Corsair Vengeance LPX DDR4 32GB DDR4 @ 3200MHz (4x8) </li>
+      <li><b>Motherboard:</b> ASUS TUF GAMING B550-PLUS WIFI II </li>
+      <li><b>Storage 1:</b> Samsung 970 EVO Plus SSD 250GB </li>
+      <li><b>Storage 2:</b> Crucial BX500 500GB </li>
+      <li><b>Storage 3:</b> Kioxia Exceria G2 1TB </li>
+      <li><b>PSU:</b> Gamdias Helios M2-850B 80 Plus Silver 850W </li>
+      <li><b>Case:</b> NZXT H6 Flow </li>
+      <li><b>Cooler:</b> Cooler Master Hyper 212 RGB Black Edition </li>
+    </ul>
+  </div>
+</div>
+
+<br clear="all" />
 
 
 <!--
