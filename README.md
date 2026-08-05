@@ -23,7 +23,7 @@
 
 <ul>
   <li> Studying <strong>Computer Science</strong> at UPM (ETSIINF) - <em>Awarded 2 Grades of Distinction</em> </li>
-  <li> Actively looking for <strong>Software Engineering / AI Internships</strong> </li>
+<!--  <li> Actively looking for <strong>Software Engineering / AI Internships</strong> </li> -->
   <li> Native <strong>Spanish</strong>, fluent in <strong>English</strong>, and learning <strong>Chinese</strong> </li>
   <li> Always learning, building, and exploring new technologies </li>
   <li> Powered by coffee ☕ and <code>while(true)</code> loops </li>
