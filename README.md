@@ -75,10 +75,10 @@
 -->
 
 <!-- Current PC Setup -->
-<p> Right now I'm rockin'... </p>
+<p> Right now I'm rockin': </p>
 
 <div>
-  <img src="CurrentPC.jpg" height="320" align="left" hspace="25" style="border-radius: 6px;" alt="My Current PC Setup" />
+  <img src="CurrentPC.jpg" height="300" align="left" hspace="25" style="border-radius: 6px;" alt="My Current PC Setup" />
 
   <!-- Specs -->
   <div style="overflow: hidden;">
